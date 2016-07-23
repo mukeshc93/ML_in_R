@@ -1,3 +1,4 @@
+###Sample example for doing market basket analysis
 library(arules)
 library(tidyr)
 library(dplyr)
